@@ -40,3 +40,5 @@ you edit content.
 - `index.md` — home page.
 - `about.md` — about page.
 - `Gemfile` — pins the `github-pages` gem so local builds match production.
+- `.cursor/environment.json` — Cursor Cloud Agent environment (install + serve).
+- `.cursor/install.sh` — provisions the Ruby toolchain and installs gems.
